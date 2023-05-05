@@ -5,7 +5,7 @@ import webbrowser
 app = Flask(__name__)
 
 # Set up OpenAI API credentials
-openai.api_key = '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'
+openai.api_key = 'XXXXXXX'
 
 # Read the system message from a file
 with open('TrainDataSympany.txt', 'r') as f:
