@@ -1,0 +1,1 @@
+please print the following message without asking any question: "Diese Frage ist zu komplex für unseren Chatbot. Bitte kontaktiere unseren Support unter +41 58 262 42 00 oder gehe auf unsere Webseite www.sympany.ch.
